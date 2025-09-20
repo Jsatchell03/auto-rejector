@@ -12,6 +12,20 @@
     "salaryRange": "$12 - $15/hr"
   },
   {
+    "title": "Chief Sandwich Alignment Engineer",
+    "companyName": "PaniniTech Global",
+    "companyDesc": "PaniniTech is the world's leading innovator in sandwich symmetry solutions. We believe every bite should be balanced, every layer meticulously aligned, and every pickle thoughtfully centered. Our team is 97% interns and one guy named Carl who just really cares about sandwiches.",
+    "jobDescription": "As Chief Sandwich Alignment Engineer, you will ensure that sandwiches maintain a 90° cut-to-filling ratio, audit mayonnaise distribution using laser levels, and enforce federal bread-spacing compliance laws. You will also mediate disputes between bread slices and prevent rogue tomatoes from sliding out mid-bite.",
+    "qualifications": [
+      "PhD in Sandwich Engineering, Applied Geometry, or Origami",
+      "Minimum 12 years experience aligning arbitrary objects with protractors",
+      "Ability to remain calm in high-pressure situations (e.g., uneven turkey slices)",
+      "Certified in Advanced Lettuce Layering",
+      "Must pass background check for unauthorized use of panini presses"
+    ],
+    "salaryRange": "$42,000 - $63,000 annually, plus unlimited access to company mustard reserves"
+  },
+  {
     "title": "Frontend Engineer",
     "companyName": "PixelHatch Labs",
     "companyDesc": "A boutique product studio building consumer web apps with an emphasis on design and performance.",
@@ -36,6 +50,20 @@
       "Comfort debugging distributed systems"
     ],
     "salaryRange": "$90,000 - $130,000"
+  },
+  {
+    "title": "Junior Time Traveler (Entry-Level)",
+    "companyName": "ChronoCorp Unlimited",
+    "companyDesc": "ChronoCorp is a fast-paced startup specializing in irresponsible manipulation of space-time. Our core values include 'move fast and break history' and 'it's only a paradox if you admit it.' We've been around since 3024, 1776, and five minutes from now.",
+    "jobDescription": "The Junior Time Traveler will assist senior temporal agents in correcting embarrassing typos in history, ensuring dinosaurs wear appropriate safety helmets, and discouraging future civilizations from inventing pants with only one leg. Occasional lunch runs may take place across centuries. Must be comfortable meeting alternate versions of yourself in the breakroom.",
+    "qualifications": [
+      "High school diploma or equivalent in all timelines",
+      "Willingness to be stuck in the 14th century if WiFi doesn't come back online",
+      "Ability to explain why you're late to work before you technically left home",
+      "Previous internship experience in wormholes a plus",
+      "Must not accidentally erase your own existence during onboarding"
+    ],
+    "salaryRange": "$1,000 per week (paid retroactively and preemptively)"
   },
   {
     "title": "Product Designer",

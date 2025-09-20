@@ -1,10 +1,9 @@
 # Rejectify: The Rapid Future Of Job Applications 🚀
 
-Rejectify is a fake job board where every applicant is guaranteed rejection an AI generated rejction email. Each email is personalized based on the applicant’s résumé and the job they applied for. Why wait weeks for a “thanks but no thanks” when you can get one instantly?   
+Rejectify is a fake job board where every applicant is guaranteed an AI generated rejction email. Each email is personalized based on the applicant’s résumé and the job they applied for. Why wait weeks for a “thanks but no thanks” when you can get one instantly?   
 
 ## 🎭 Background
-This project was deveolped for the as part of the Comedy Hackathon. Just a way to joke and poke fun at the current U.S. job market.
-
+This project was deveolped as part of the Comedy Hackathon. Just a way to joke and poke fun at the current U.S. job market.
 
 
 ## 🛠️ Tech Stack

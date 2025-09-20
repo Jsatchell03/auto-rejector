@@ -33,9 +33,9 @@ function App() {
             <div className="w-[600px] mx-auto">
               <p className="text-center mb-10">
                 Long wait times, multi-stage interview processes, cover letters,
-                and take-home exams are all a thing of the past. Rejectify uses
+                and take-home exams are all a thing of the past! Rejectify uses
                 AI and data gathered from questionable sources to instantly
-                handle your application and email you an update.
+                handle your application.
               </p>
             </div>
           </div>
