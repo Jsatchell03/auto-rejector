@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Frontend Engineer",
+    "companyName": "PixelHatch Labs",
+    "companyDesc": "A boutique product studio building consumer web apps with an emphasis on design and performance.",
+    "jobDescription": "Design and implement responsive user interfaces, translate Figma into reusable React components, and collaborate with designers and backend engineers to ship polished features.",
+    "qualifications": [
+      "3+ years building web apps with React or similar frameworks",
+      "Strong CSS and responsive layout skills",
+      "Experience with component-driven development and testing",
+      "Familiarity with REST/GraphQL APIs"
+    ],
+    "salaryRange": "$80,000 - $120,000"
+  },
+  {
+    "title": "Backend Software Engineer (Node.js)",
+    "companyName": "CedarScale",
+    "companyDesc": "Cloud-native infrastructure startup focusing on developer tooling and observability.",
+    "jobDescription": "Build scalable microservices, optimize APIs for performance, and contribute to internal platform tools for deployment and monitoring.",
+    "qualifications": [
+      "3+ years Node.js/TypeScript experience",
+      "Knowledge of databases (Postgres, Redis) and message queues",
+      "Experience with containerization (Docker) and CI/CD",
+      "Comfort debugging distributed systems"
+    ],
+    "salaryRange": "$90,000 - $130,000"
+  },
+  {
+    "title": "Product Designer",
+    "companyName": "LunaCart",
+    "companyDesc": "A commerce startup making modular storefronts for niche brands.",
+    "jobDescription": "Lead UX flows, craft high-fidelity mocks, run prototype tests with users, and work with engineers to ensure design fidelity.",
+    "qualifications": [
+      "Portfolio demonstrating end-to-end design work",
+      "3+ years in product or interaction design",
+      "Proficiency with Figma or Sketch",
+      "Strong collaboration and communication skills"
+    ],
+    "salaryRange": "$70,000 - $110,000"
+  },
+  {
+    "title": "Data Analyst",
+    "companyName": "MapleMetrics",
+    "companyDesc": "Analytics consultancy that helps SMBs make data-driven decisions.",
+    "jobDescription": "Analyze customer and product datasets, create dashboards, and provide insights to inform marketing and product strategies.",
+    "qualifications": [
+      "2+ years with SQL and data visualization tools",
+      "Comfort with Excel/Google Sheets for analysis",
+      "Ability to translate data into clear recommendations",
+      "Familiarity with basic statistics"
+    ],
+    "salaryRange": "$60,000 - $85,000"
+  },
+  {
+    "title": "Mobile Engineer (React Native)",
+    "companyName": "OmniPulse",
+    "companyDesc": "Cross-platform mobile app maker focused on community-driven experiences.",
+    "jobDescription": "Implement mobile features, optimize performance, and maintain shared code across iOS and Android using React Native.",
+    "qualifications": [
+      "2+ years React Native experience",
+      "Understanding of native build tooling (Xcode/Android Studio)",
+      "Experience with state management and offline patterns",
+      "Comfort writing unit and integration tests"
+    ],
+    "salaryRange": "$85,000 - $125,000"
+  },
+  {
+    "title": "DevOps / Site Reliability Engineer",
+    "companyName": "NimbusOps",
+    "companyDesc": "Managed cloud operations for high-availability web services.",
+    "jobDescription": "Automate deployment pipelines, maintain monitoring/alerting, and lead incident response practices to keep services healthy.",
+    "qualifications": [
+      "Experience with Kubernetes and cloud providers",
+      "Knowledge of Terraform or other IaC tools",
+      "Strong scripting skills (Python, Bash, or Go)",
+      "Proven incident management experience"
+    ],
+    "salaryRange": "$95,000 - $140,000"
+  },
+  {
+    "title": "Marketing Manager",
+    "companyName": "BrightFolio",
+    "companyDesc": "A platform for creators to build and sell portfolios and digital products.",
+    "jobDescription": "Drive acquisition campaigns, own content strategy, measure channel ROI, and coordinate cross-functional launches.",
+    "qualifications": [
+      "3+ years growth or performance marketing",
+      "Experience with paid channels and analytics",
+      "Strong copywriting and campaign planning skills",
+      "Comfort working with small, fast-moving teams"
+    ],
+    "salaryRange": "$70,000 - $110,000"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "companyName": "Aurora Labs",
+    "companyDesc": "Applied AI company building ML features for enterprise SaaS.",
+    "jobDescription": "Prototype and productionize ML models, collaborate with data engineering to build pipelines, and monitor model performance in production.",
+    "qualifications": [
+      "2+ years with ML frameworks (PyTorch, TensorFlow)",
+      "Experience deploying models (Docker, TF Serving, TorchServe)",
+      "Solid understanding of feature engineering and evaluation",
+      "Proficiency in Python and SQL"
+    ],
+    "salaryRange": "$100,000 - $150,000"
+  },
+  {
+    "title": "Customer Success Specialist",
+    "companyName": "HandshakeHR",
+    "companyDesc": "HR tooling startup that simplifies onboarding for remote teams.",
+    "jobDescription": "Guide customers through onboarding, troubleshoot issues, and collect feedback to help shape product improvements.",
+    "qualifications": [
+      "Excellent written and verbal communication",
+      "Experience in customer-facing roles",
+      "Ability to manage multiple accounts and prioritize tasks",
+      "Familiarity with SaaS workflows preferred"
+    ],
+    "salaryRange": "$50,000 - $75,000"
+  },
+  {
+    "title": "QA Engineer",
+    "companyName": "Northframe",
+    "companyDesc": "Enterprise software vendor delivering workflow automation tools.",
+    "jobDescription": "Develop and maintain automated test suites, perform integration testing, and work with engineering to fix defects before release.",
+    "qualifications": [
+      "Experience with automated testing frameworks",
+      "Strong understanding of test case design",
+      "Familiarity with CI systems and bug tracking",
+      "Attention to detail and reliability mindset"
+    ],
+    "salaryRange": "$65,000 - $95,000"
+  }
+]
