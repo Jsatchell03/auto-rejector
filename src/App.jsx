@@ -26,9 +26,19 @@ function App() {
         <p>Loading...</p>
       ) : (
         <div className="min-h-screen bg-gray-100 py-10">
-          <h1 className="text-4xl font-bold text-center mb-10">
-            Behold The Future Of Job Applications
-          </h1>
+          <div className="flex justify-center flex-col">
+            <h1 className="text-4xl font-bold text-center mb-2">
+              Behold The Future Of Job Applications
+            </h1>
+            <div className="w-[600px] mx-auto">
+              <p className="text-center mb-10">
+                Long wait times, multi-stage interview processes, cover letters,
+                and take-home exams are all a thing of the past. Rejectify uses
+                AI and data gathered from questionable sources to instantly
+                handle your application and email you an update.
+              </p>
+            </div>
+          </div>
           <div className="max-w-5xl mx-auto px-4">
             {jobs.map((job, index) => (
               <Listing

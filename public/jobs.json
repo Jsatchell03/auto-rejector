@@ -13,6 +13,18 @@
     "salaryRange": "$80,000 - $120,000"
   },
   {
+    "title": "Crew Member",
+    "companyName": "McDonald's",
+    "companyDesc": "A global fast-food chain serving burgers, fries, and beverages.",
+    "jobDescription": "Prepare and serve food, handle cash register, and maintain cleanliness in the restaurant.",
+    "qualifications": [
+      "No prior experience required",
+      "Ability to work in a fast-paced environment",
+      "Strong communication skills"
+    ],
+    "salaryRange": "$12 - $15/hr"
+  },
+  {
     "title": "Backend Software Engineer (Node.js)",
     "companyName": "CedarScale",
     "companyDesc": "Cloud-native infrastructure startup focusing on developer tooling and observability.",
@@ -52,6 +64,30 @@
     "salaryRange": "$60,000 - $85,000"
   },
   {
+    "title": "Barista",
+    "companyName": "Starbucks",
+    "companyDesc": "A coffeehouse chain specializing in handcrafted beverages and light snacks.",
+    "jobDescription": "Prepare coffee and tea beverages, serve customers, and maintain a clean workspace.",
+    "qualifications": [
+      "No prior experience required",
+      "Friendly and customer-focused",
+      "Able to stand for long periods"
+    ],
+    "salaryRange": "$13 - $16/hr"
+  },
+  {
+    "title": "Busser",
+    "companyName": "Chili's",
+    "companyDesc": "A casual dining restaurant offering American cuisine and drinks.",
+    "jobDescription": "Clear and clean tables, assist servers, and maintain restaurant cleanliness.",
+    "qualifications": [
+      "Ability to work in a team",
+      "No prior experience required",
+      "Willingness to work evenings/weekends"
+    ],
+    "salaryRange": "$11 - $13/hr"
+  },
+  {
     "title": "Mobile Engineer (React Native)",
     "companyName": "OmniPulse",
     "companyDesc": "Cross-platform mobile app maker focused on community-driven experiences.",
@@ -76,6 +112,30 @@
       "Proven incident management experience"
     ],
     "salaryRange": "$95,000 - $140,000"
+  },
+  {
+    "title": "Server",
+    "companyName": "Olive Garden",
+    "companyDesc": "A casual dining restaurant known for Italian cuisine and a welcoming atmosphere.",
+    "jobDescription": "Take orders, serve food and beverages, and provide a positive dining experience.",
+    "qualifications": [
+      "Strong customer service skills",
+      "Ability to multitask in a busy environment",
+      "No experience necessary"
+    ],
+    "salaryRange": "$12 - $14/hr plus tips"
+  },
+  {
+    "title": "Cashier",
+    "companyName": "Target",
+    "companyDesc": "A retail store offering a wide range of products including groceries, clothing, and electronics.",
+    "jobDescription": "Operate the cash register, assist customers, and maintain a clean checkout area.",
+    "qualifications": [
+      "Basic math skills",
+      "Customer service oriented",
+      "No experience required"
+    ],
+    "salaryRange": "$12 - $15/hr"
   },
   {
     "title": "Marketing Manager",
@@ -128,5 +188,17 @@
       "Attention to detail and reliability mindset"
     ],
     "salaryRange": "$65,000 - $95,000"
+  },
+  {
+    "title": "Groundskeeper",
+    "companyName": "Local Parks Department",
+    "companyDesc": "Responsible for maintaining public parks, sports fields, and recreational areas.",
+    "jobDescription": "Mow lawns, trim bushes, plant flowers, and maintain clean outdoor areas.",
+    "qualifications": [
+      "Able to perform physical labor",
+      "Reliable and punctual",
+      "No experience required"
+    ],
+    "salaryRange": "$14 - $17/hr"
   }
 ]

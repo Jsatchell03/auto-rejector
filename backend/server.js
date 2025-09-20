@@ -33,7 +33,7 @@ app.post("/send-email", async (req, res) => {
         Resume:
         ${resume}
 
-        Task: First, find the applicant's email from their resume. Then write a personalized, funny email rejecting this candidate based on their Resume and the Job Listing. This is not professional. This rejection email is meant only to be a joke. Make fun of the applicant's credentials and insult them for even applying for this job. Return the rejection email in this JSON schema {"applicant_email": "", "subject" : "", "content": ""}.
+        Task: First, find the applicant's email from their resume. Then write a personalized, funny email rejecting this candidate based on their Resume and the Job Listing. This is not professional. This rejection email is meant only to be a joke. Make fun of the applicant's credentials and insult them for even applying for this job. Make up somthing about thier personality that would make them unqualifed for the position. Never compliment or praise the applicant. Return the rejection email in this JSON schema {"applicant_email": "", "subject" : "", "content": ""}.
       `
     });
     const emailData = JSON.parse(response.output_text);
