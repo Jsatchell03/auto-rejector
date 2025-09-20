@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crew Member",
+    "companyName": "McDonald's",
+    "companyDesc": "A global fast-food chain serving burgers, fries, and beverages.",
+    "jobDescription": "Prepare and serve food, handle cash register, and maintain cleanliness in the restaurant.",
+    "qualifications": [
+      "No prior experience required",
+      "Ability to work in a fast-paced environment",
+      "Strong communication skills"
+    ],
+    "salaryRange": "$12 - $15/hr"
+  },
+  {
     "title": "Frontend Engineer",
     "companyName": "PixelHatch Labs",
     "companyDesc": "A boutique product studio building consumer web apps with an emphasis on design and performance.",
@@ -11,18 +23,6 @@
       "Familiarity with REST/GraphQL APIs"
     ],
     "salaryRange": "$80,000 - $120,000"
-  },
-  {
-    "title": "Crew Member",
-    "companyName": "McDonald's",
-    "companyDesc": "A global fast-food chain serving burgers, fries, and beverages.",
-    "jobDescription": "Prepare and serve food, handle cash register, and maintain cleanliness in the restaurant.",
-    "qualifications": [
-      "No prior experience required",
-      "Ability to work in a fast-paced environment",
-      "Strong communication skills"
-    ],
-    "salaryRange": "$12 - $15/hr"
   },
   {
     "title": "Backend Software Engineer (Node.js)",
